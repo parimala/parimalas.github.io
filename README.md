@@ -1,1 +1,1 @@
-# https://parimalas.github.io
+# http://parimalas.github.io
